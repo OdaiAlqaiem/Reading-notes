@@ -5,7 +5,7 @@ Introduction
 # Table of contents
 | growth mindset | [Link](https://odaialqaiem.github.io/Reading-notes/growthmindset)   |
 | --- | ----------- |
-|read01 |  [link](https://odaialqaiem.github.io/Reading-notes/Read01) |
-|  read02  |  [link](https://odaialqaiem.github.io/Reading-notes/Read02)|
+|read01 |[link](https://odaialqaiem.github.io/Reading-notes/Read01) |
+|  read02 |[link](https://odaialqaiem.github.io/Reading-notes/Read02)|
 
 

@@ -10,7 +10,7 @@
 | 1  | growth-mindset  | [Link](https://odaialqaiem.github.io/Reading-notes/growth-mindset)  |
 | 2 | read01  | [link](https://odaialqaiem.github.io/Reading-notes/Read01)   |
 | 3  |   read02   |[link](https://odaialqaiem.github.io/Reading-notes/Read02)  |
-| 4 |   read03  |[link](https://odaialqaiem.github.io/Reading-notes/Read03)  |
+| 4  |   read03   |[link](https://odaialqaiem.github.io/Reading-notes/Read03)  |
 | 5  |   read04   |[link](https://odaialqaiem.github.io/Reading-notes/Read04)  |
 ## Read01
 ## Read02

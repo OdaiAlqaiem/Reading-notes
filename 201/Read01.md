@@ -1,14 +1,19 @@
-# The Structure of the book
+# Introduction about HTML and JavaScript
 
-+ HTML
-+ CSS
-+ Practical
+#### HTML, CSS and Javasript are used to establish a complete webpage. What are they and how to use them? In this reading we will explain the fundamentals to give you the basic understanding to what these three are and how to use them to create your perfect webpage.
+
+
+![HTML, CSS and Javasript](https://miro.medium.com/max/5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+
+
 
 # How People Access the Web
 
 - Browsers
 - Web Servers
-- Screen readers
+- Screen readers 
+- Devices
+
 
 # How the Web Works
 
@@ -28,6 +33,9 @@
 -  To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
 
+![html](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/659px-HTML.svg.png)
+
+
 # Extra Markup 
 
 -  DOCTYPES tell browsers which version of HTML you are using.
@@ -41,7 +49,9 @@
 
 -  The meta tag allows you to supply all kinds of information about your web page.
 
--  Escape characters are used to include special characters in your pages such as <, >, and ©. 
+-  Escape characters are used to include special characters in your pages such as <, >, and ©.
+
+![Doctype](https://www.seobility.net/en/wiki/images/a/a6/HTML-Doctype.png)
 
 # HTML5 Layout 
 
@@ -70,6 +80,11 @@
 
 
 # The ABC of Programming
+
+## Javascript
+
+![JS](https://res.cloudinary.com/practicaldev/image/fetch/s--jrUL9Qno--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bne9v7qj14kseofqmoww.jpg)
+
 
 ### What is a script and how do I creat one ?
 

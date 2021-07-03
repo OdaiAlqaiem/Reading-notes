@@ -32,10 +32,10 @@
 | 8         |    Read08     |  [Work on styling the cookie stand project](https://odaialqaiem.github.io/Reading-notes/201/Read08)  |
 | 9         |   Read09      |  [Forms and Events](https://odaialqaiem.github.io/Reading-notes/201/Read09)   |
 | 10        |   Read10      | [JS Debugging](https://odaialqaiem.github.io/Reading-notes/201/Read10)    |
-| 11        |  Read11       | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read11)    |
-| 12        |  Read12       | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read12)   |
-| 13        |   Read13      | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read13)     |
-| 14        |  Read14a       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read14a)    |
-| 15        |  Read14b       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read14b)    |
+| 11        |  Read11       | [Assorted Topics](https://odaialqaiem.github.io/Reading-notes/201/Read11)    |
+| 12        |  Read12       |                   [Docs for the HTML `<canvas>` Element & Chart.js](https://odaialqaiem.github.io/Reading-notes/201/Read11)     |
+| 13        |   Read13      | [Local Storage](https://odaialqaiem.github.io/Reading-notes/201/Read13)     |
+| 14        |  Read14a       |[CSS Transforms, Transitions, and Animations](https://odaialqaiem.github.io/Reading-notes/201/Read14a)    |
+| 15        |  Read14b       |[What Google Learned About Teams](https://odaialqaiem.github.io/Reading-notes/201/Read14b)    |
 
 

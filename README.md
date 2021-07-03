@@ -4,38 +4,38 @@
 
 #  Code 102 Reading Notes :
 
-| Number    |  Content| Links |
+| Number    |  Assignment| Link |
 | :---: | :---: | :---: |
-| 1  | growth-mindset  |[Link](https://odaialqaiem.github.io/Reading-notes/102/growth-mindset)  |
-| 2 | read01  |[link](https://odaialqaiem.github.io/Reading-notes/102/Read01)   |
-| 3  |   read02   |[link](https://odaialqaiem.github.io/Reading-notes/102/Read02)  |
-| 4  |   read03   |[link](https://odaialqaiem.github.io/Reading-notes/102/Read03)  |
-| 5  |   read04   |[link](https://odaialqaiem.github.io/Reading-notes/102/Read04)  |
-| 6  |   read05   |[link](https://odaialqaiem.github.io/Reading-notes/102/Read05)  |
-| 7  |   read06   |[link](https://odaialqaiem.github.io/Reading-notes/102/Read06)  |
-| 8  |   read07   |[link](https://odaialqaiem.github.io/Reading-notes/102/Read07)  |
+| 1  | growth-mindset  |[growth-mindset](https://odaialqaiem.github.io/Reading-notes/102/growth-mindset)  |
+| 2 | read01  |[Learning Markdown](https://odaialqaiem.github.io/Reading-notes/102/Read01)   |
+| 3  |   read02   |[ version control ](https://odaialqaiem.github.io/Reading-notes/102/Read02)  |
+| 4  |   read03   |[Structure web pages with HTML](https://odaialqaiem.github.io/Reading-notes/102/Read03)  |
+| 5  |   read04   |[Dynamic web pages with JavaScript](https://odaialqaiem.github.io/Reading-notes/102/Read04)  |
+| 6  |   read05   |[Operators and Loops](https://odaialqaiem.github.io/Reading-notes/102/Read05)  |
+| 7  |   read06   |[Design web pages with CSS](https://odaialqaiem.github.io/Reading-notes/102/Read06)  |
+| 8  |   read07   |[Programming with JavaScript](https://odaialqaiem.github.io/Reading-notes/102/Read07)  |
 
 
 
 
 #  Code 201 Reading Notes :
 
-| Number    |  Content| Links |
+| Number    |  Assignment| Link |
 | :---:     | :---:   | :---: |
-| 1         |   Read01      |   [Link](https://odaialqaiem.github.io/Reading-notes/201/class-01)  |    
-| 2         |         |       |
-| 3         |         |       |
-| 4         |         |       |
-| 5         |         |       |
-| 6         |         |       |
-| 7         |         |       |
-| 8         |         |       |
-| 9         |         |       |
-| 10        |         |       |
-| 11        |         |       |
-| 12        |         |       |
-| 13        |         |       |
-| 14        |         |       |
-| 15        |         |       |
+| 1         |   Read01      |   [Introductory HTML and JavaScript](https://odaialqaiem.github.io/Reading-notes/201/Read01)  |    
+| 2         |    Read02     |  [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read02)   |
+| 3         |  Read03       | [ HTML Lists, CSS Boxes, JS Control Flow](https://odaialqaiem.github.io/Reading-notes/201/Read03)|
+| 4         |    Read04     | [HTML Links, CSS Layout, JS Functions](https://odaialqaiem.github.io/Reading-notes/201/Read04)    |
+| 5         |   Read05      | [HTML Images; CSS Color & Text](https://odaialqaiem.github.io/Reading-notes/201/Read05)   |
+| 6         |   Read06      | [JS Object Literals; The DOM](https://odaialqaiem.github.io/Reading-notes/201/Read06)   |
+| 7         |   Read07      |[More CSS Layout](https://odaialqaiem.github.io/Reading-notes/201/Read07)   |
+| 8         |    Read08     |  [Work on styling the cookie stand project](https://odaialqaiem.github.io/Reading-notes/201/Read08)  |
+| 9         |   Read09      |  [Forms and Events](https://odaialqaiem.github.io/Reading-notes/201/Read09)   |
+| 10        |   Read10      | [JS Debugging](https://odaialqaiem.github.io/Reading-notes/201/Read10)    |
+| 11        |  Read11       | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read11)    |
+| 12        |  Read12       | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read12)   |
+| 13        |   Read13      | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read13)     |
+| 14        |  Read14a       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read14a)    |
+| 15        |  Read14b       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://odaialqaiem.github.io/Reading-notes/201/Read14b)    |
 
 

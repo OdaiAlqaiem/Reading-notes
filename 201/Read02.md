@@ -50,10 +50,10 @@
 ![Citations](https://static.javatpoint.com/htmlpages/images/html-cite-tag.png)
 
 ## Definitions
-![]()
+![Definitions](https://www.wikihow.com/images/thumb/b/b2/Define-a-Definition-List-in-HTML-Step-12.jpg/v4-460px-Define-a-Definition-List-in-HTML-Step-12.jpg)
 
 ## address
-![]()
+![address](https://i.ytimg.com/vi/N_zhQhtJC64/maxresdefault.jpg)
 
 ## Changes to Content
 + ins

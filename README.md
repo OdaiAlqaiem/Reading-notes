@@ -8,7 +8,7 @@
 | :---: | :---: | :---: |
 | 1  | growth-mindset  |[growth-mindset](https://odaialqaiem.github.io/Reading-notes/102/growth-mindset)  |
 | 2 | read01  |[Learning Markdown](https://odaialqaiem.github.io/Reading-notes/102/Read01)   |
-| 3  |   read02   |[ version control ](https://odaialqaiem.github.io/Reading-notes/102/Read02)  |
+| 3  |   read02   |[ Revisions and the Cloud ](https://odaialqaiem.github.io/Reading-notes/102/Read02)  |
 | 4  |   read03   |[Structure web pages with HTML](https://odaialqaiem.github.io/Reading-notes/102/Read03)  |
 | 5  |   read04   |[Dynamic web pages with JavaScript](https://odaialqaiem.github.io/Reading-notes/102/Read04)  |
 | 6  |   read05   |[Operators and Loops](https://odaialqaiem.github.io/Reading-notes/102/Read05)  |
